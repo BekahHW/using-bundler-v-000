@@ -6,4 +6,5 @@ gem "sinatra"
 #   gem "pry"
 # end
 
-gem "pry", :group => development
+gem "pry", :group => "development"
+
