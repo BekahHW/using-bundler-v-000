@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 group :test do 
-  gem "respec""
+  gem "respec"
+end
 gem "sinatra", "1.4.4"
 gem "octokit", "~> 2.0"
 gem "hashie"
